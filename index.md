@@ -37,6 +37,12 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
+```html
+video width="320" height="240" controls>
+  <source src="/assets/vids/threshks.mp4" type="video/mp4">
+</video>
+```
+
 #### Header 4
 
 *   This is an unordered list following a header.
