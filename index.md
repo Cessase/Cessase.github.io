@@ -37,18 +37,8 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-```html
-<video width="320" height="240" controls>
-  <source src="/assets/vids/threshks.mp4" type="video/mp4">
-</video>
-```
-
 <figure class="video_container">
-  <iframe src="https://www.youtube.com/watch?v=Ngoa44kkQww" frameborder="0" allowfullscreen="true"> </iframe>
-</figure>
-
-<figure class="video_container">
-  <video width="320" height="240" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
+  <video width="640" height="480" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
     <source src="/assets/vids/threshks.mp4" type="video/mp4">
   </video>
 </figure>
