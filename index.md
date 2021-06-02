@@ -38,7 +38,7 @@ end
 ```
 
 <figure class="video_container">
-  <video width="640" height="480" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
+  <video width="640" height="360" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
     <source src="/assets/vids/threshks.mp4" type="video/mp4">
   </video>
 </figure>
