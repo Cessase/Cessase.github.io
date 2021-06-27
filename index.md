@@ -6,6 +6,12 @@ layout: default
 
 ## Unity - Extended Reality Projects
 
+<figure class="video_container">
+  <video width="640" height="360" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
+    <source src="/assets/vid/ARBook.mp4" type="video/mp4">
+  </video>
+</figure>
+
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
