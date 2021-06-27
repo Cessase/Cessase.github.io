@@ -4,6 +4,13 @@ layout: default
 
 # Unity - 3D Projects
 
+First person interractable game prototype
+<figure class="video_container">
+  <video width="640" height="360" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
+    <source src="/assets/vid/FPint.mp4" type="video/mp4">
+  </video>
+</figure>
+
 # Unity - Extended Reality Projects
 
 Marker based AR via Vuforia
@@ -12,6 +19,7 @@ Marker based AR via Vuforia
     <source src="/assets/vid/ARBook.mp4" type="video/mp4">
   </video>
 </figure>
+
 
 <!---
 Text can be **bold**, _italic_, or ~~strikethrough~~.
