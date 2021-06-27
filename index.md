@@ -4,8 +4,9 @@ layout: default
 
 # Unity - 3D Projects
 
-## Unity - Extended Reality Projects
+# Unity - Extended Reality Projects
 
+Marker based AR via Vuforia
 <figure class="video_container">
   <video width="640" height="360" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
     <source src="/assets/vid/ARBook.mp4" type="video/mp4">
