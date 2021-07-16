@@ -18,6 +18,14 @@ Clone of Collect Cubes
   </video>
 </figure>
 
+Simple Tower Defense game
+<figure class="video_container">
+  <video width="640" height="360" controls="true" allowfullscreen="true" poster="/assets/img/cover.png">
+    <source src="/assets/vid/TD.mp4" type="video/mp4">
+  </video>
+</figure>
+
+
 # Unity - Extended Reality Projects
 
 Marker based AR via Vuforia
